@@ -3,11 +3,10 @@
 
 <p align="left"> <a href="https://twitter.com/sinaricii" target="blank"><img src="https://img.shields.io/twitter/follow/sinaricii?logo=twitter&style=for-the-badge" alt="sinaricii" /></a> </p>
 
-- 🔭 I’m currently working as **Project Manager at RTM Invest group**
 
-- 🌱 I’m currently learning **SQL, PMP**
+- 🌱 I’m currently learning **Matlab, PMP**
 
-- 👯 I’m looking to collaborate on **Semiconductors and Sensor Industries**
+- 👯 I’m looking to collaborate on **Membrane science and technology**
 
 - 📫 How to reach me **Mail me at csrezaei@gmail.com**
 
